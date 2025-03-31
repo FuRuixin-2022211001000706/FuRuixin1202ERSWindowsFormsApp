@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<EmpRecordsData>
+	<Ecode Id="E001" EmployeeName="Michael Perry">
+		<EmpDetails DateOfJoin="02-02-1999"  Gread="B" Salary="1750"/>
+	</Ecode>
+	<Ecode Id="E002" EmployeeName="Jenifer Carell">
+		<EmpDetails DateOfJoin="05-02-1999" Gread="B" Salary="2500"/>
+	</Ecode>
+	<Ecode Id="E003" EmployeeName="George Rice">
+		<EmpDetails DateOfJoin="01-02-1999" Gread="A" Salary="2000"/>
+	</Ecode>
+	<Ecode Id="E004" EmployeeName="Pemela Griffin">
+		<EmpDetails DateOfJoin="02-03-1999" Gread="E" Salary="1850"/>
+	</Ecode>
+	<Ecode Id="E005" EmployeeName="Peter Griffin">
+		<EmpDetails DateOfJoin="02-04-1999" Gread="A" Salary="27500"/>
+	</Ecode>
+	
+</EmpRecordsData>
